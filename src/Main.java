@@ -85,7 +85,7 @@ public class Main {
     }
 
     public static void task10 () {
-        System.out.println("Задача 10");
+        System.out.println("Задача  10");
         int a = 0;
         int b = 1;
         int sum;
