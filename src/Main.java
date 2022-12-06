@@ -27,21 +27,21 @@ public class Main {
     }
 
     public static void task3 () {
-        System.out.println("Задача3");
+        System.out.println("Задача 3");
         for (int i = 0; i < 17; i += 2){
             System.out.println(i);
         }
     }
 
     public static void task4 () {
-        System.out.println("Задача4");
+        System.out.println("Задача 4");
         for (int i = 10; i >= -10; i--) {
             System.out.println(i);
         }
     }
 
     public static void task5 () {
-        System.out.println("Задача5");
+        System.out.println("Задача 5");
         for (int i = 1904; i <= 2096; i += 4) {
                 if (i % 400 == 0 || i % 100 != 0) {
                     System.out.println(i + "год является високосным");
@@ -50,21 +50,21 @@ public class Main {
     }
 
     public static void task6 () {
-        System.out.println("Задача6");
+        System.out.println("Задача 6");
         for (int i = 7; i <= 98; i+=7) {
             System.out.println(i);
         }
     }
 
     public static void task7 () {
-        System.out.println("Задача7");
+        System.out.println("Задача 7");
         for (int i = 1; i <= 512; i *= 2) {
             System.out.println(i);
         }
     }
 
     public static void task8 () {
-        System.out.println("Задача8");
+        System.out.println("Задача 8");
         int vklad = 29000;
         int total = 0;
         for (int i = 1; i <= 12; i++) {
@@ -74,7 +74,7 @@ public class Main {
     }
 
     public static void task9 () {
-        System.out.println("Задача9");
+        System.out.println("Задача 9");
         int vklad = 29000;
         int total = 0;
         for (int i = 1; i <=12; i++) {
@@ -85,7 +85,7 @@ public class Main {
     }
 
     public static void task10 () {
-        System.out.println("Задача10");
+        System.out.println("Задача  10");
         int a = 0;
         int b = 1;
         int sum;
